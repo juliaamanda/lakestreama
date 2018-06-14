@@ -19,7 +19,7 @@ export default class FeaturePage extends React.Component {
   render() {
     return (
       <div className="feature-page">
-        <Helmet>
+        {/*<Helmet>
           <title>Feature Page</title>
           <meta
             name="description"
@@ -60,7 +60,7 @@ export default class FeaturePage extends React.Component {
             </p>
           </li>
         </ul>
-        <i>and much more...</i>
+        <i>and much more...</i>*/}
       </div>
     );
   }
